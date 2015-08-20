@@ -1,0 +1,6 @@
+Ingredients:
+ - qwark
+ - banana
+
+Directions:
+ 1. Mash banana and put it on the qwark
